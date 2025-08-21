@@ -1,5 +1,12 @@
 ## Olá, eu sou o Mith Allefy
 
+- 💻 Estudante de Engenharia de Software | Profissional de TI com experiência em redes, suporte técnico e administração de servidores.  
+- 🚀 Aprendendo Python, SQL e automação para ampliar meus conhecimentos em desenvolvimento.  
+- 🔍 Apaixonado por tecnologia, dedicado e sempre em busca de evolução.  
+- 🌱 Construindo projetos práticos para desenvolver minhas habilidades e compartilhar aprendizado.  
+
+
+
 <div align="center">
   <a href="https://github.com/STINGZADA">
     <img
@@ -17,7 +24,9 @@
   <img alt="STING-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="STING-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="STING-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="STING-SQL"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
 
 ##
 
