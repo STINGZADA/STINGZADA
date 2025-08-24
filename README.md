@@ -8,12 +8,12 @@
 
 
 <div align="center">
-  <a href="https://github.com/STINGZADA">
+  <a href="https://github.com/mithallefy">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=STINGZADA&show_icons=true&title_color=ffcc00&text_color=ffffff&bg_color=0d0d0d&border_color=333333&include_all_commits=true&count_private=true&card_width=620"
+      src="https://github-readme-stats.vercel.app/api?username=mithallefy&show_icons=true&title_color=ffcc00&text_color=ffffff&bg_color=0d0d0d&border_color=333333&include_all_commits=true&count_private=true&card_width=620"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=STINGZADA&layout=compact&langs_count=16&title_color=ffcc00&text_color=ffffff&bg_color=0d0d0d&border_color=333333&card_width=620"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithallefy&layout=compact&langs_count=16&title_color=ffcc00&text_color=ffffff&bg_color=0d0d0d&border_color=333333&card_width=620"
     />
   </a>
 </div>
